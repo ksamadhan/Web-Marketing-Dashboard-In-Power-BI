@@ -1,4 +1,4 @@
-# Web-Marketing-Dashboard-In-Power-BI
+# Web-Marketing-Dashboard-Using-Power-BI
 This Web Marketing Dashboard is a comprehensive tool for tracking and analyzing key web performance metrics. Designed for digital marketing professionals, it helps visualize important insights across sessions, page views, and user engagement.
 
 Features
